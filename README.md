@@ -1,0 +1,1 @@
+Dummy Django project for experimenting with RTF using QuillJS.
